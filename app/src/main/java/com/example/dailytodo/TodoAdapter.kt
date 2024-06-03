@@ -7,6 +7,7 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 
+//https://www.youtube.com/watch?v=BBWyXo-3JGQ
 
 class TodoAdapter (
     private val todos: MutableList<Todo>
